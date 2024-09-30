@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/parent.contentLayout"
+    android:orientation="vertical"
+    android:background="@drawable/back"
+    android:gravity="center"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    >
+                <Button
+                    android:id="@+id/learn"
+                    android:text="تَعَلَّمْ"
+                    android:layout_marginBottom="20dp"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:textSize="21sp"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="@font/el_messiri_semibold"
+                    android:background="@drawable/backbtn"
+                    />
+
+                <Button
+                    android:id="@+id/play"
+                    android:text="إلْعَبْ"
+                    android:layout_marginBottom="20dp"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:textSize="21sp"
+                    android:textStyle="bold"
+                    android:background="@drawable/backbtn"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="@font/el_messiri_semibold">
+                </Button>
+</LinearLayout>

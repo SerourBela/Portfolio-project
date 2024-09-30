@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/forgotpass"
+    android:gravity="center_vertical"
+    android:layout_margin="15dp"
+    android:orientation="vertical"
+    android:background="@drawable/forgotbck">
+    <EditText
+        android:id="@+id/email"
+        android:maxLines="1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="170dp"
+        android:background="@drawable/btn"
+        android:drawablePadding="10dp"
+        android:hint="البريد الإلكتروني"
+        android:textColor="#5D5D5D"
+        android:inputType="textEmailAddress"
+        android:padding="10dp"
+        android:textColorHint="#5D5D5D"
+        android:textSize="16sp"
+        android:drawableEnd="@drawable/email"
+        android:ellipsize="end"
+        android:gravity="right"
+        tools:ignore="MissingConstraints" />
+    <Button
+        android:id="@+id/loginBtn"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/loginbutton"
+        android:onClick="Forgot"
+        android:padding="3dp"
+        android:text="إرسال"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

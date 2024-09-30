@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigationGames"
+        android:icon="@drawable/toys"
+        android:title="@string/games" />
+
+    <item
+        android:id="@+id/navigationNote"
+        android:icon="@drawable/note"
+        android:title="@string/remarque" />
+
+    <item
+        android:id="@+id/navigationHome"
+        android:icon="@drawable/home"
+        android:title="@string/seance" />
+
+    <item
+        android:id="@+id/navigationNotification"
+        android:icon="@drawable/notification"
+        android:title="@string/notifications" />
+
+    <item
+        android:id="@+id/navigationMyProfile"
+        android:icon="@drawable/user"
+        android:title="@string/profile_info" />
+
+</menu>

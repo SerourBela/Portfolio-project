@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context=".NumbersActivity">
+
+    <TextView
+        android:id="@+id/num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="13dp"
+        android:fontFamily="@font/el_messiri_semibold"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/zero"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/ic_zero"
+            tools:ignore="ButtonStyle">
+        </Button>
+
+        <Button
+            android:id="@+id/one"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/ic_one"
+            tools:ignore="ButtonStyle">
+        </Button>
+
+        <Button
+            android:id="@+id/two"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/ic_two"
+            tools:ignore="ButtonStyle">
+        </Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/three"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/ic_three">
+
+        </Button>
+
+        <Button
+            android:id="@+id/four"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/ic_four">
+
+        </Button>
+
+        <Button
+            android:id="@+id/five"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/ic_five">
+
+        </Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/six"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/ic_six">
+
+        </Button>
+
+        <Button
+            android:id="@+id/saven"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/ic_seven">
+
+        </Button>
+
+        <Button
+            android:id="@+id/eight"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/ic_eight">
+
+        </Button>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/nine"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:background="@drawable/ic_nine">
+    </Button>
+</LinearLayout>

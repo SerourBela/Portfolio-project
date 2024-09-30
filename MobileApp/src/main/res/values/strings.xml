@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RanaMaeak</string>
+    <string name="games">الألعاب</string>
+    <string name="remarque">الملاحظات</string>
+    <string name="seance">الحصص</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="profile_info">البيانات</string>
+    <string name="edugames">ألعاب تعليمية</string>
+    <string name="lettres">الْحُرُوفْ</string>
+    <string name="numbers">الْأَرْقَامْ</string>
+    <string name="shapes">الْأَشْكَالْ</string>
+    <string name="colors">الْأَلْوَانْ</string>
+    <string name="fruits">الْفَوَاكِهْ</string>
+    <string name="puzzle">اللُّغْزْ</string>
+    <string name="animals">الْحَيَوَانَاتْ</string>
+    <string name="jobs">الْمِهَنْ</string>
+    <string name="coloring">تَلْوينْ</string>
+    <string name="noNotif">لا توجد إشعارات</string>
+    <string name="send">إرسال</string>
+    <string name="directions">الإِتِّجَاهَاتْ</string>
+</resources>

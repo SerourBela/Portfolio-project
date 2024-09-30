@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/parent.contentLayout"
+    android:background="@android:color/white"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/parent">
+        </ImageView>
+            <EditText
+                android:id="@+id/observation"
+                android:maxLines="9"
+                android:layout_width="fill_parent"
+                android:layout_height="150dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/edittextbk"
+                android:hint="يمكنك كتابة أي ملاحظات جديدة رأيتها على طفلك جيدة كانت أم سيئة..."
+                android:textColor="#5D5D5D"
+                android:padding="10dp"
+                android:textColorHint="#5D5D5D"
+                android:textSize="16sp"
+                android:ellipsize="end"
+                android:gravity="right"
+                />
+
+            <Button
+                android:id="@+id/send"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/loginbutton"
+                android:onClick="Send"
+                android:padding="3dp"
+                android:text="@string/send"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+

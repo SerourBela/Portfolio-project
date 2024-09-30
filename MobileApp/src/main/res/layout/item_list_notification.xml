@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="right"
+    android:orientation="vertical"
+    android:elevation="2dp"
+    android:layout_margin="5dp"
+    android:background="@color/homecardbck">
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:text="2020-06-19" />
+
+            <TextView
+                android:id="@+id/detailnoti"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingBottom="10dp"
+                android:text="حصة جديدة: إطلع على مستجدات تطور حالة طفلك و إتبع النصائح المقدمة."
+                android:textColor="@android:color/black"
+                android:textSize="17sp"
+                />
+
+        </LinearLayout>
