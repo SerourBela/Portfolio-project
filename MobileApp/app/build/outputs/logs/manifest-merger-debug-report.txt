@@ -1,0 +1,394 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\452c75ee67a5c0929bb1299fcfc1a8d0\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5c93462128b547afb73dc482e6f81589\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\a621425fdde0cc39c6e6986394ecd820\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\bdc560ed052250a49d5e29ac749bd630\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\02fc910b688e417c120ac8502bbbe7df\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2b1fae67f61f028fb888f5ff9385814f\jetified-volley-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [net.colindodd:gradientlayout:1.2] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\7d755efde10f0b9d1186fb9a44c44a99\jetified-gradientlayout-1.2\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c209b2459c49ba566bd92dc1efcf62ab\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ed1fe84cb8da9778dfa55faa70930cb5\jetified-circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5702946d77f8d55f2ad9c21e554d2339\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d8d69adf1a6b3d130b66b11ae8cd24a4\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5df0dacaa74ff2e9465a55ad1ff70297\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\b1cd2ffcf4dff9ba243c3dadcab815fd\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d5bf11d15de7d0f9bfc9a2e1a8c1b71c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\355ad34104d74667ec850f5d863bf6a4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\47af897d2e3d8d95fec73db012969f98\fragment-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5f544c9055cb4aecaf82b59a4084e4db\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5545a1297d3028eb86c2f59afede00ba\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\a6ea26ab5be8360a3ec673ed6231842f\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\a91da814ff585c0e8c3a788ce495b65b\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\f963f74c06814642512a0f6cc619237f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\7a4b3813c751c56b36814991e84748b7\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2fcf65548dad3afab49272d052f192e9\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\e2fac41b6b19acf2156cad0d08c4f2b9\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d8fd54d31e223ccf66279b49cbe0b6c1\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\82b4cef4dab83589862c873cf230c3d8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\b604a0faa8fb757b3e63e0bf4fb2ff3f\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\64071376593c268b71ceff7e56b1035f\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ced7a459773ac14d1ea9ddf9384dc663\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\3fb110591b633ccbfa136562b7a4046a\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c9a9a51d99cc49397666b309b56b11ab\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\89629fdbadff10582b219e6be56a5699\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\9af25622f64b9906d76ef71ca27ad0cc\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d077df79ea6e30b06b2d8d7a9afe6763\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\edb5fb4043db2c902281703f24efacdc\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ccc44f8482c31e061744b83f33a7470d\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\b63786e1ee350d65a0b4084bdf5fcc11\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\1237bf9e35cab3ca49a2ee83a8755c28\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\e4ef33b395433d2f08d13ce4609999e5\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\de74f26688ad356f07afe08f5f2e2f25\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c135202ad83b99a35e01d18d129d5999\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\4e74c8d2c846421439b6b276f7c28a17\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\43a45535a51738f421fbc4c1a2411916\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2ae42694ed8b1eb5e6487cc4ca63f786\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\8e884a39535b14a9da74ccaf627ec261\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:6:5-64:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\452c75ee67a5c0929bb1299fcfc1a8d0\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\452c75ee67a5c0929bb1299fcfc1a8d0\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5c93462128b547afb73dc482e6f81589\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5c93462128b547afb73dc482e6f81589\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\bdc560ed052250a49d5e29ac749bd630\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\bdc560ed052250a49d5e29ac749bd630\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2b1fae67f61f028fb888f5ff9385814f\jetified-volley-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2b1fae67f61f028fb888f5ff9385814f\jetified-volley-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [net.colindodd:gradientlayout:1.2] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\7d755efde10f0b9d1186fb9a44c44a99\jetified-gradientlayout-1.2\AndroidManifest.xml:12:5-20
+MERGED from [net.colindodd:gradientlayout:1.2] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\7d755efde10f0b9d1186fb9a44c44a99\jetified-gradientlayout-1.2\AndroidManifest.xml:12:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ed1fe84cb8da9778dfa55faa70930cb5\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ed1fe84cb8da9778dfa55faa70930cb5\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\3fb110591b633ccbfa136562b7a4046a\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\3fb110591b633ccbfa136562b7a4046a\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c9a9a51d99cc49397666b309b56b11ab\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c9a9a51d99cc49397666b309b56b11ab\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\de74f26688ad356f07afe08f5f2e2f25\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\de74f26688ad356f07afe08f5f2e2f25\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\3fb110591b633ccbfa136562b7a4046a\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:9:9-41
+	android:hardwareAccelerated
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:7:9-44
+	android:roundIcon
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:11:9-54
+	android:largeHeap
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:10:9-33
+	android:icon
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.serour.ranamaeak.ShapesActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:15:9-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:15:19-49
+activity#com.serour.ranamaeak.JobsActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:16:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:16:19-47
+activity#com.serour.ranamaeak.FruitsActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:17:9-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:17:19-49
+activity#com.serour.ranamaeak.AnimalsActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:18:9-53
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:18:19-50
+activity#com.serour.ranamaeak.DirectionActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:19:9-55
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:19:19-52
+activity#com.serour.ranamaeak.AlphabetActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:20:19-51
+activity#com.serour.ranamaeak.NumbersActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:21:19-50
+activity#com.serour.ranamaeak.GamesActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.serour.ranamaeak.LearnActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:23:19-48
+activity#com.serour.ranamaeak.ColorsActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:24:19-49
+activity#com.serour.ranamaeak.Forgotpass
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:25:9-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:25:19-45
+activity#com.serour.ranamaeak.AnimalsLevels
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:26:19-48
+activity#com.serour.ranamaeak.FruitsLevels
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.serour.ranamaeak.ColorsLevels
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:28:19-47
+activity#com.serour.ranamaeak.DirectionsLevels
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:29:9-54
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:29:19-51
+activity#com.serour.ranamaeak.FormsLevels
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:30:9-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:30:19-46
+activity#com.serour.ranamaeak.JobLevels
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:31:9-47
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:31:19-44
+activity#com.serour.ranamaeak.MemoryLevels
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:32:19-47
+activity#com.serour.ranamaeak.Level1Animals
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:33:9-51
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:33:19-48
+activity#com.serour.ranamaeak.Level2Animals
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:34:9-51
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:34:19-48
+activity#com.serour.ranamaeak.Level3Animals
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:35:9-51
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:35:19-48
+activity#com.serour.ranamaeak.Level1Fruits
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:36:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:36:19-47
+activity#com.serour.ranamaeak.Level2Fruits
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:37:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:37:19-47
+activity#com.serour.ranamaeak.Level3Fruits
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:38:19-47
+activity#com.serour.ranamaeak.Level1Colors
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:39:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:39:19-47
+activity#com.serour.ranamaeak.Level2Colors
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:40:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:40:19-47
+activity#com.serour.ranamaeak.Level3Colors
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:41:19-47
+activity#com.serour.ranamaeak.Level1Directions
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:42:9-54
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:42:19-51
+activity#com.serour.ranamaeak.Level2Directions
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:43:9-54
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:43:19-51
+activity#com.serour.ranamaeak.Level3Directions
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:44:9-54
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:44:19-51
+activity#com.serour.ranamaeak.Level1Forms
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:45:9-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:45:19-46
+activity#com.serour.ranamaeak.Level2Forms
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:46:9-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:46:19-46
+activity#com.serour.ranamaeak.Level3Forms
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:47:9-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:47:19-46
+activity#com.serour.ranamaeak.Level1Jobs
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:48:9-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:48:19-45
+activity#com.serour.ranamaeak.Level2Jobs
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:49:9-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:49:19-45
+activity#com.serour.ranamaeak.Level3Jobs
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:50:9-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:50:19-45
+activity#com.serour.ranamaeak.MainActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:51:9-50
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:51:19-47
+activity#com.serour.ranamaeak.LoginActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:52:9-54:59
+	android:theme
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:53:13-42
+activity#com.serour.ranamaeak.SplashActivity
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:55:9-63:20
+	android:theme
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:57:13-53
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:56:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:58:13-62:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml:61:27-74
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\452c75ee67a5c0929bb1299fcfc1a8d0\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\452c75ee67a5c0929bb1299fcfc1a8d0\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5c93462128b547afb73dc482e6f81589\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5c93462128b547afb73dc482e6f81589\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\a621425fdde0cc39c6e6986394ecd820\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\a621425fdde0cc39c6e6986394ecd820\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\bdc560ed052250a49d5e29ac749bd630\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\bdc560ed052250a49d5e29ac749bd630\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\02fc910b688e417c120ac8502bbbe7df\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\02fc910b688e417c120ac8502bbbe7df\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2b1fae67f61f028fb888f5ff9385814f\jetified-volley-1.1.0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2b1fae67f61f028fb888f5ff9385814f\jetified-volley-1.1.0\AndroidManifest.xml:7:5-43
+MERGED from [net.colindodd:gradientlayout:1.2] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\7d755efde10f0b9d1186fb9a44c44a99\jetified-gradientlayout-1.2\AndroidManifest.xml:8:5-10:41
+MERGED from [net.colindodd:gradientlayout:1.2] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\7d755efde10f0b9d1186fb9a44c44a99\jetified-gradientlayout-1.2\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c209b2459c49ba566bd92dc1efcf62ab\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c209b2459c49ba566bd92dc1efcf62ab\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ed1fe84cb8da9778dfa55faa70930cb5\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ed1fe84cb8da9778dfa55faa70930cb5\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5702946d77f8d55f2ad9c21e554d2339\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5702946d77f8d55f2ad9c21e554d2339\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d8d69adf1a6b3d130b66b11ae8cd24a4\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d8d69adf1a6b3d130b66b11ae8cd24a4\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5df0dacaa74ff2e9465a55ad1ff70297\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5df0dacaa74ff2e9465a55ad1ff70297\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\b1cd2ffcf4dff9ba243c3dadcab815fd\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\b1cd2ffcf4dff9ba243c3dadcab815fd\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d5bf11d15de7d0f9bfc9a2e1a8c1b71c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d5bf11d15de7d0f9bfc9a2e1a8c1b71c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\355ad34104d74667ec850f5d863bf6a4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\355ad34104d74667ec850f5d863bf6a4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\47af897d2e3d8d95fec73db012969f98\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\47af897d2e3d8d95fec73db012969f98\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5f544c9055cb4aecaf82b59a4084e4db\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5f544c9055cb4aecaf82b59a4084e4db\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5545a1297d3028eb86c2f59afede00ba\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\5545a1297d3028eb86c2f59afede00ba\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\a6ea26ab5be8360a3ec673ed6231842f\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\a6ea26ab5be8360a3ec673ed6231842f\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\a91da814ff585c0e8c3a788ce495b65b\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\a91da814ff585c0e8c3a788ce495b65b\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\f963f74c06814642512a0f6cc619237f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\f963f74c06814642512a0f6cc619237f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\7a4b3813c751c56b36814991e84748b7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\7a4b3813c751c56b36814991e84748b7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2fcf65548dad3afab49272d052f192e9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2fcf65548dad3afab49272d052f192e9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\e2fac41b6b19acf2156cad0d08c4f2b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\e2fac41b6b19acf2156cad0d08c4f2b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d8fd54d31e223ccf66279b49cbe0b6c1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d8fd54d31e223ccf66279b49cbe0b6c1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\82b4cef4dab83589862c873cf230c3d8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\82b4cef4dab83589862c873cf230c3d8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\b604a0faa8fb757b3e63e0bf4fb2ff3f\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\b604a0faa8fb757b3e63e0bf4fb2ff3f\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\64071376593c268b71ceff7e56b1035f\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\64071376593c268b71ceff7e56b1035f\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ced7a459773ac14d1ea9ddf9384dc663\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ced7a459773ac14d1ea9ddf9384dc663\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\3fb110591b633ccbfa136562b7a4046a\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\3fb110591b633ccbfa136562b7a4046a\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c9a9a51d99cc49397666b309b56b11ab\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c9a9a51d99cc49397666b309b56b11ab\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\89629fdbadff10582b219e6be56a5699\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\89629fdbadff10582b219e6be56a5699\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\9af25622f64b9906d76ef71ca27ad0cc\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\9af25622f64b9906d76ef71ca27ad0cc\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d077df79ea6e30b06b2d8d7a9afe6763\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\d077df79ea6e30b06b2d8d7a9afe6763\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\edb5fb4043db2c902281703f24efacdc\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\edb5fb4043db2c902281703f24efacdc\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ccc44f8482c31e061744b83f33a7470d\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\ccc44f8482c31e061744b83f33a7470d\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\b63786e1ee350d65a0b4084bdf5fcc11\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\b63786e1ee350d65a0b4084bdf5fcc11\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\1237bf9e35cab3ca49a2ee83a8755c28\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\1237bf9e35cab3ca49a2ee83a8755c28\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\e4ef33b395433d2f08d13ce4609999e5\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\e4ef33b395433d2f08d13ce4609999e5\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\de74f26688ad356f07afe08f5f2e2f25\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\de74f26688ad356f07afe08f5f2e2f25\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c135202ad83b99a35e01d18d129d5999\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c135202ad83b99a35e01d18d129d5999\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\4e74c8d2c846421439b6b276f7c28a17\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\4e74c8d2c846421439b6b276f7c28a17\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\43a45535a51738f421fbc4c1a2411916\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\43a45535a51738f421fbc4c1a2411916\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2ae42694ed8b1eb5e6487cc4ca63f786\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\2ae42694ed8b1eb5e6487cc4ca63f786\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\8e884a39535b14a9da74ccaf627ec261\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\8e884a39535b14a9da74ccaf627ec261\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RanaMaeak\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c9a9a51d99cc49397666b309b56b11ab\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c9a9a51d99cc49397666b309b56b11ab\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c9a9a51d99cc49397666b309b56b11ab\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c9a9a51d99cc49397666b309b56b11ab\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\serour\Downloads\gradle-6.5-all\gradle-6.5\caches\transforms-2\files-2.1\c9a9a51d99cc49397666b309b56b11ab\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
