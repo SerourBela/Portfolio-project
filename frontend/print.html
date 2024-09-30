@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>Print Portion Example</title>
+    <style type="text/css">
+      @media print {
+        body * {
+          display:none;
+        }
+
+        body .printable {
+          display:block;
+        }
+      }
+    </style>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <h1>Print Section Example</h1>
+    <div id="div1">Div 1</div>
+    <div id="div2">Div 2</div>
+    <div id="div3" style="color: brown;">Div 3</div>
+    <div id="div4">Div 4</div>
+    <div id="div5">Div 5</div>
+    <div id="div6">Div 6</div>
+    <p><input id="btnSubmit" type="submit" value="Print" onclick="divPrint();" /></p>
+    <script type="text/javascript">
+      function divPrint() {
+        // Some logic determines which div should be printed...
+        // This example uses div3.
+        $("#div3").addClass("printable");
+        window.print();
+      }
+    </script>
+  </body>
+</html>

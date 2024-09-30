@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ملف الطفل</title>
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="dist/css/bootstrap-rtl.min.css">
+  <link rel="stylesheet" href="dist/css/custom-style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal&display=swap" rel="stylesheet">
+
+
+</head>
+<body class="hold-transition sidebar-mini">
+<div class="wrapper">
+
+  <!-- Navbar -->
+  <nav class="main-header navbar navbar-expand  navbar-light border-bottom">
+    <!-- Left navbar links -->
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" data-widget="pushmenu" href="#"><i class="fa fa-bars"></i></a>
+      </li>
+    
+    </ul>
+
+
+    <!-- Right navbar links -->
+    <ul class="navbar-nav mr-auto">
+      <!-- Messages Dropdown Menu -->
+        <img src="dist/img/logoautisme.png" >
+         
+    </ul>
+  </nav>
+  <!-- /.navbar -->
+
+  <!-- Main Sidebar Container -->
+  <aside class="main-sidebar sidebar-dark-primary elevation-4">
+    
+
+    <!-- Sidebar -->
+    <div class="sidebar" style="direction: ltr">
+      <div style="direction: rtl">
+        <!-- Sidebar user panel (optional) -->
+        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+          <div class="image">
+            <img src="dist/img/spec.png">
+          </div>
+          <div class="info">
+            <a href="#" class="d-block">بوسطوح خولة</a>
+          </div>
+        </div>
+
+        <!-- Sidebar Menu -->
+        <nav class="mt-2">
+          <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+            <!-- Add icons to the links using the .nav-icon class
+                 with font-awesome or any other icon font library -->
+            <li class="nav-item">
+              <a href="#" class="nav-link">
+                <i class="nav-icon fa fa-user-plus"></i>
+                <p>
+                  حصة معالجة
+                </p>
+              </a>
+             
+            </li>
+            <li class="nav-item has-treeview">
+              <a href="#" class="nav-link active">
+                <i class="nav-icon fa fa-table"></i>
+                <p>
+                  قائمة الأطفال
+                </p>
+              </a>
+           
+              <li class="nav-item">
+                <a href="#" id="lien" class="nav-link"  data-toggle="modal" data-target="#myModal1">
+                  <i class="nav-icon fa fa-sign-out"></i>
+                  <p>
+                    تسجيل الخروج
+                  </p>
+                </a>
+              </li>
+            </li>
+            
+          </ul>
+        </nav>
+        <!-- /.sidebar-menu -->
+      </div>
+    </div>
+    <!-- /.sidebar -->
+  </aside>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+         
+      </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+
+    <!-- Main content -->
+   <section class="content">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-3">
+
+          <!-- Profile Image -->
+          <div class="card card-primary card-outline">
+            <div class="card-body box-profile">
+              <ul class="nav nav-pills">
+                <li class="nav-item"><a class="nav-link active" href="#child" data-toggle="tab"> الطفل</a></li>
+                <li class="nav-item"><a class="nav-link" href="#parents" data-toggle="tab">بيانات الأولياء</a></li>
+              </ul>
+             <div class="tab-content">
+               
+                <div class="active tab-pane" id="child">
+                  <div class="post">
+              <div class="text-center">
+                <img class="profile-user-img img-fluid img-circle"
+                     src="dist/img/child1.jpg"
+                     alt="صورة الطفل">
+              </div>
+
+              <h3 class="profile-username text-center childname">لشهب أمين</h3>
+              <ul class="list-group list-group-unbordered mb-3">
+                <li class="list-group-item">
+                  <b>الجنس:</b> <a>ذكر</a>
+                </li>
+                <li class="list-group-item">
+                  <b>العمر:</b> <a>4 سنوات</a>
+                </li>
+                <li class="list-group-item">
+                  <b>زمرة الدم:</b> <a>A+</a>
+                </li>
+                <li class="list-group-item">
+                  <b> العنوان:</b> <a>زواغي سليمان - قسنطينة - </a>
+                </li>
+              </ul>
+              </div>
+              </div>
+                <div class="tab-pane" id="parents">
+                  <div class="post">
+                    <div>
+                      <p></p>
+                    </div> 
+                    <div class="text-center">
+                      
+                        <img class="profile-parents-img img-fluid img-circle"
+                             src="dist/img/dad.jpg"
+                             alt="صورة الأب">
+                      </div>
+                      <p></p>
+                      <ul class="list-group list-group-unbordered mb-3">
+                        <li class="list-group-item">
+                          <b>الأب:</b> <a>لشهب علي</a>
+                        </li>
+                        <li class="list-group-item">
+                          <b>رقم الهاتف:</b> <a>0662252525</a>
+                        </li>
+                        </ul>
+                    
+                    <div class="text-center">
+                      <img class="profile-parents-img img-fluid img-circle"
+                           src="dist/img/mom.jpg"
+                           alt="صورةالأم">
+                    </div>
+                    <p></p>
+                    <ul class="list-group list-group-unbordered mb-3">
+                      <li class="list-group-item">
+                        <b>الأم:</b> <a>مرزاق أميمة</a>
+                      </li>
+                      <li class="list-group-item">
+                        <b>رقم الهاتف:</b> <a>0668581254</a>
+                      </li>
+                      </ul>
+
+                    </div>
+                  </div>
+           </div>
+            </div>
+            <!-- /.card-body -->
+          </div>
+          <!-- /.card -->
+
+          
+          <!-- /.card -->
+        </div>
+         <!-- /.col -->
+         <div class="col-md-9">
+          <div class="card">
+            
+            <div class="card-header p-2">
+          
+                <div class="card-tools">
+                  <div class="input-group input-group-sm" style="width: 150px;">
+                    <input type="text" name="table_search" class="form-control float-right" placeholder="بحث">
+  
+                    <div class="input-group-append">
+                      <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+                    </div>
+                  </div>
+                </div>
+              <ul class="nav nav-pills">
+                <li class="nav-item"><a class="nav-link active" href="#diagnostic" data-toggle="tab">التشخيص</a></li>
+                <li class="nav-item"><a class="nav-link" href="#prise" data-toggle="tab"> حصص المعالجة</a></li>
+                <li class="nav-item"><a class="nav-link" href="#remarkparents" data-toggle="tab">تعليقات الآباء</a></li>
+                <li class="nav-item"><a class="nav-link" href="traitant.html" >إضافة حصة معالجة</a></li>
+
+                
+              </ul>
+              
+              <div class="card-body">
+               
+            </div><!-- /.card-header -->
+          
+              <div class="tab-content">
+                <div class="active tab-pane" id="diagnostic">
+                  <div class="post">
+                    <div class="card">
+                    <div class="card-body table-responsive p-0">
+                        <table class="table table-hover">
+                          <tr>
+                            <th>التاريخ</th>
+                            <th>المختص(ة)</th>
+                            <th>المشرف(ة)</th>
+                            <th>النتيجة</th>
+                          </tr>
+                          <tr class='clickable-row' data-href='carsSpec.html'>
+                            <td>2020-06-20</td>
+                            <td>بلعابد سرور</td>
+                            <td>غول إيمان</td>
+                            <td>أعراض متوسطة من اضطراب طيف التوحد</td>
+                          </tr>
+                          <tr class='clickable-row' data-href='carsSpec.html'>
+                            <td>2020-01-20</td>
+                            <td>بوسطوح خولة</td>
+                            <td>غول إيمان</td>
+                            <td>أعراض بسيطة من اضطراب طيف التوحد</td>
+                          </tr>
+                          
+                        </table>
+                      </div>
+                      <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+                  </div>
+                 </div>
+                <div class="tab-pane" id="prise">
+                  <div class="post">
+                    <div class="card">
+                  <div class="card-body table-responsive p-0">
+                    <table class="table table-hover">
+                      <tr>
+                        <th>التاريخ</th>
+                        <th>المختص(ة)</th>
+                        <th>المدة</th>
+                        <th>الطريقة المستعملة</th>
+                        <th>التعليق</th>
+                        <th>الوصف</th>
+                        <th>نصائح للوالدين</th>
+
+
+
+                      </tr>
+                      <tr>
+                        <td>2020-06-19</td>
+                        <td>بوسطوح خولة</td>
+                        <td>ساعة</td>
+                        <td>ABA</td>
+                        
+                        <td>تطور مهارات التواصل اللفظي، تكوين جملة</td>
+                        <td>القيام بأنشطة تساعد الطفل على تكوين جملة بسيطة مكونة من الكلمات التي تعلمها سابقا</td>
+                        <td>تحدث مع طفلك ولا تتذمر عند نطقه للكلمات بطريقة خاطئة ساعده ليتذكر الكلمات البسيطة ويكون بها جملة بسيطة</td>
+
+
+                      </tr>
+                      <tr>
+                        <td>2020-06-17</td>
+                        <td>بوسطوح خولة</td>
+                        <td>ساعة</td>
+                        <td>ABA</td>
+                        <td>تطور مهارات التواصل اللفظي وذلك بتعلم كلمات جديدة</td>
+                        <td>القيام بأنشطة لتحسين مهارات التواصل اللفظي،وذلك بتدريبه على نطق كلمات جديدة مكونة من ثلاثة أحرف مثل باب،أبي... </td>
+                        <td> ساعد طفلك على تذكر الكلمات التي تعلمها (باب،أبي،ماء) ولا تتذمر عند نسيانه أو عكسه للحروف</td>
+                      </tr>
+                      
+                    </table>
+                  </div>
+                </div>
+                </div>
+      </div>
+      <div class="tab-pane" id="remarkparents">
+        <div class="post">
+          <div class="card">
+        <div class="card-body table-responsive p-0">
+          <table class="table table-hover">
+            <table class="table table-hover">
+              <tr>
+                <th>التاريخ</th>
+                <th>الولي</th>
+                <th>الملاحظات</th>
+              </tr>
+              <tr class='clickable-row' data-href='carsSpec.html'>
+                <td>2020-06-22</td>
+                <td>مرزاق أميمة</td>
+                <td>لاحظت مؤخرا تحسنا على قدرته على التواصل إذ يستجيب عندما أناديه بإسمه.</td>
+              </tr>
+              <tr class='clickable-row' data-href='carsSpec.html'>
+                <td>2020-06-10</td>
+                <td>مرزاق أميمة</td>
+                <td>إبني يتعلم كلمات جديدة و لا يقولها مجددا رغم أني أساعده على نطقها لكنه يجد صعوبة في ذلك.</td>
+              </tr>
+              
+            </table>
+          </table>
+        </div>
+      </div>
+      </div>
+</div>
+         </div>
+  </section>
+
+  <!-- /.content -->
+</div>
+<div class="modal fade" id="myModal1">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">تسجيل الخروج</h4>
+        <button type="button" class="exit" data-dismiss="modal">×</button>
+      </div>
+      <!-- Modal body -->
+      <div class="modal-body">
+       هل أنت متأكد؟
+      </div> 
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <a href="/logout" class="btn btn-primary">خروج</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ./wrapper -->
+<script>
+  jQuery(document).ready(function($) {
+    $(".clickable-row").click(function() {
+        window.location = $(this).data("href");
+    });
+});
+</script>
+<!-- jQuery -->
+<script src="plugins/jquery/jquery.min.js"></script>
+<!-- jQuery UI 1.11.4 -->
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+<!-- AdminLTE App -->
+<script src="dist/js/adminlte.js"></script>
+</body>
+</html>
+
