@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.serour.ranamaeak" >
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:allowBackup="true">
+        <activity android:name=".ShapesActivity" />
+        <activity android:name=".JobsActivity" />
+        <activity android:name=".FruitsActivity" />
+        <activity android:name=".AnimalsActivity" />
+        <activity android:name=".DirectionActivity" />
+        <activity android:name=".AlphabetActivity" />
+        <activity android:name=".NumbersActivity" />
+        <activity android:name=".GamesActivity"/>
+        <activity android:name=".LearnActivity" />
+        <activity android:name=".ColorsActivity" />
+        <activity android:name=".Forgotpass" />
+        <activity android:name=".AnimalsLevels" />
+        <activity android:name=".FruitsLevels" />
+        <activity android:name=".ColorsLevels" />
+        <activity android:name=".DirectionsLevels" />
+        <activity android:name=".FormsLevels" />
+        <activity android:name=".JobLevels" />
+        <activity android:name=".MemoryLevels" />
+        <activity android:name=".Level1Animals" />
+        <activity android:name=".Level2Animals" />
+        <activity android:name=".Level3Animals" />
+        <activity android:name=".Level1Fruits" />
+        <activity android:name=".Level2Fruits" />
+        <activity android:name=".Level3Fruits" />
+        <activity android:name=".Level1Colors" />
+        <activity android:name=".Level2Colors" />
+        <activity android:name=".Level3Colors" />
+        <activity android:name=".Level1Directions" />
+        <activity android:name=".Level2Directions" />
+        <activity android:name=".Level3Directions" />
+        <activity android:name=".Level1Forms" />
+        <activity android:name=".Level2Forms" />
+        <activity android:name=".Level3Forms" />
+        <activity android:name=".Level1Jobs" />
+        <activity android:name=".Level2Jobs" />
+        <activity android:name=".Level3Jobs" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashScreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
