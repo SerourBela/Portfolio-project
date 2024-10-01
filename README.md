@@ -12,12 +12,6 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-
-tobyselway/laravel_setup.md
-Last active 5 months ago • Report abuse
-Clone this repository at &lt;script src=&quot;https://gist.github.com/tobyselway/5ea6c3f09201ea7743e321279c8d9645.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/tobyselway/5ea6c3f09201ea7743e321279c8d9645.js"></script>
-
 ##Initial Setup for Laravel Projects
 
 #1. Clone the repository
