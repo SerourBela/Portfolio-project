@@ -1,5 +1,16 @@
 # Potfolio-project
 Webstack - Portfolio Project
+
+In the project titled "We Are With You," designed to support autistic children, there are three components:
+
+The frontend, built with HTML, CSS, JavaScript, and Bootstrap.
+
+The backend, developed using the Laravel framework.
+
+A mobile application, created with Java in Android Studio, aimed at helping children learn and play alongside their families.
+
+# Getting started 
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 # About Laravel 
